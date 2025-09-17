@@ -4,4 +4,14 @@
             Carrie Ann's Portfolio
         </title>
     </head>
+
+    <body>
+        <h1>This is my portfolio!</h1>
+        <h2>
+            <ol>
+                <li>Soundboard</li>
+                <li>Clicker game</li>
+            </ol>
+        </h2>
+    </body>
 </html>
